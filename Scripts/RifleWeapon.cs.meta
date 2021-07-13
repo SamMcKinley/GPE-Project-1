@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c98478493ad441b439b6996b2ed85faa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rightHandPoint: {instanceID: 0}
+  - leftHandPoint: {instanceID: 0}
+  - Projectile: {fileID: 648074823368851237, guid: 64969bc1de319cf479886bc8a2c5f901,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
